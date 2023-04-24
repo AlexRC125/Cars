@@ -1,0 +1,51 @@
+body {
+    background-image: url("img/wp3199581.jpg");
+
+}
+img {
+  object-position: 0%;
+    margin-left: 45%;
+    margin-top: 10%;
+}
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+h2{
+  text-align: justify;
+  margin-left: 10%;
+  margin-top: 3%;
+  color: aliceblue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: Black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: lightblue;
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: none;
+      }
+      .btn {
+
+        margin-bottom: 300px;
+  margin-left: 300px;
+}
