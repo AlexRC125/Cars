@@ -2,19 +2,20 @@ body {
     background-image: url("img/wp3199581.jpg");
 
 }
-img {
-  object-position: 0%;
-    margin-left: 45%;
-    margin-top: 10%;
+.car {
+object-position: justify;
+    margin-left: -100%;
+    margin-top: 30%;
 }
 h1 {
-  text-align: center;
+  text-align: justify;
   color: aliceblue;
+  margin-left: 30%;
 }
 h2{
   text-align: justify;
-  margin-left: 10%;
-  margin-top: 3%;
+margin-left: 10%;
+margin-top: 40%;
   color: aliceblue;
 }
 ul {
@@ -45,7 +46,11 @@ ul {
         transform: none;
       }
       .btn {
-
-        margin-bottom: 300px;
-  margin-left: 300px;
+text-align: justify;
+  margin-left: 25%;
+  margin-top: -18%;
+}
+h3 {
+color:aliceblue;
+margin-left: 19%;
 }
